@@ -1,12 +1,12 @@
-# _{Hello World}_
+# _Hello World_
 
-#### _{HTML file with greetings in many Languages}, {8/2/2016}_
+#### _HTML file with greetings in many Languages, 8/2/2016_
 
-#### By _**{xipsi}**_
+#### By _**xipsi**_
 
 ## Description
 
-_{HTML file is used to say hello in English, Spanish, Japanese, French, Kinyarwanda, German, and Pig Latin. }_
+_HTML file is used to say hello in English, Spanish, Japanese, French, Kinyarwanda, German, and Pig Latin._
 
 ## Setup/Installation Requirements
 
@@ -16,18 +16,18 @@ _{HTML file is used to say hello in English, Spanish, Japanese, French, Kinyarwa
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place._
 
 ## Support and contact details
 
-_{https://github.com/xipsi/hello-world}_
+_https://github.com/xipsi/hello-world_
 
 ## Technologies Used
 
-_{Text editor: atom. Web browser:chrome.}_
+_Text editor: atom. Web browser:chrome._
 
 ### License
 
-*{MIT License}*
+*MIT License*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2016 **_List of contributors or company name_**
