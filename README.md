@@ -30,4 +30,4 @@ _Text editor: atom. Web browser:chrome._
 
 *MIT License*
 
-Copyright (c) 2016 **_List of contributors or company name_**
+Copyright (c) 2016 **_xipsi_**
